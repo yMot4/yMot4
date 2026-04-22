@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Pedro Mota Maia, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Infnet.
+Me chamo Pedro Mota Maia, tenho 21 anos e sou natural do Rio de Janeiro.
 
 ---
 
